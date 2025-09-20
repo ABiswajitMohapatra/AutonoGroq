@@ -1,24 +1,8 @@
-# Streamlit for UI
 streamlit>=1.25.0
-
-# Groq client (use latest supported version)
 groq<=0.31.1
-
-# Llama Index for document indexing
 llama-index>=0.6.0
-
-# Pandas for CSV/Excel handling
 pandas>=2.0.0
-
-# Excel file reading
+PyPDF2<=3.0.1
 openpyxl>=3.1.0
 xlrd>=2.0.1
-
-# PDF handling
-PyPDF2>=3.1.0
-
-# For type hinting
-typing-extensions>=4.7.1
-
-# Rich for better logging (used by Streamlit internally)
 rich>=10.14.0
