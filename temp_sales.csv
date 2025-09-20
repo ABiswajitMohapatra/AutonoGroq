@@ -1,0 +1,12 @@
+| Date       | Region | Product    | Units Sold | Unit Price | Sales |
+| ---------- | ------ | ---------- | ---------- | ---------- | ----- |
+| 2025-09-01 | North  | Laptop     | 10         | 500        | 5000  |
+| 2025-09-01 | South  | Smartphone | 20         | 300        | 6000  |
+| 2025-09-02 | East   | Tablet     | 15         | 200        | 3000  |
+| 2025-09-02 | West   | Laptop     | 5          | 500        | 2500  |
+| 2025-09-03 | North  | Smartphone | 25         | 300        | 7500  |
+| 2025-09-03 | South  | Tablet     | 10         | 200        | 2000  |
+| 2025-09-04 | East   | Laptop     | 8          | 500        | 4000  |
+| 2025-09-04 | West   | Smartphone | 30         | 300        | 9000  |
+| 2025-09-05 | North  | Tablet     | 12         | 200        | 2400  |
+| 2025-09-05 | South  | Laptop     | 7          | 500        | 3500  |
