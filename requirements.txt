@@ -6,17 +6,3 @@ openpyxl>=3.1.0
 xlrd>=2.0.1
 PyPDF2>=3.1.0
 typing-extensions>=4.7.1
-
-Notes:
-
-streamlit – for UI
-
-groq – to access the Groq AI API
-
-llama-index – for document indexing and retrieval
-
-pandas, openpyxl, xlrd – to read CSV/Excel files
-
-PyPDF2 – to read PDF files
-
-typing-extensions – for Annotated and TypedDict support
